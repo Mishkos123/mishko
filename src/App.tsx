@@ -212,7 +212,7 @@ function App() {
                 <span className="text-xl font-bold">Eyepocalypse</span>
               </div>
               <div className="flex space-x-4">
-                <a href="https://twitter.com/eyepocalypse" target="_blank" rel="noopener noreferrer" className="social-button">
+                <a href="https://twitter.com/eyepocalypse_" target="_blank" rel="noopener noreferrer" className="social-button">
                   <Twitter className="h-6 w-6" />
                   <span>Twitter</span>
                 </a>
