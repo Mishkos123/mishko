@@ -214,7 +214,7 @@ function App() {
               <div className="flex space-x-4">
                 <a href="#" className="social-button">
                   <Twitter className="h-6 w-6" />
-                  <span>Twitter</span>
+                  <span>https://x.com/Eyepocalyse</span>
                 </a>
                 <a href="#" className="social-button">
                   <Send className="h-6 w-6" />
